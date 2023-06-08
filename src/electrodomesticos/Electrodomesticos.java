@@ -1,7 +1,7 @@
 package electrodomesticos;
 
 public class Electrodomesticos {
-
+private String prueba;
     private int precioBase = 100;
     private int precioCategoria = 0;
     private int PrecioTamano = 0;
